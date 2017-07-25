@@ -1,0 +1,9 @@
+1.Prompt the user to enter customer name,customer number,sales  amount and tax code
+2.Get input values from the user of each value
+3.Check for the three cases of tax code
+	a.if the tax code is zero then we assign the sales amount to total amount 
+	b.if the tax code is one then we assign the sales amount multiply to 0.03 to total amount 
+	c.if the tax code is two then we assign the sales amount multiply to 0.05 to total amount
+4 Print all the values which has been entered. 
+
+		

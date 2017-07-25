@@ -1,0 +1,25 @@
+1.Declare the string variable names and set the vall to null.
+2.Declare the Int variable numbers and set the vall to null.
+3.Declare the double variable salesAmount and set the vall to null.
+4.Declare the double variable totalAmountDue and set the vall to null.
+5.Declare the int variable tax code and set the vall to null.
+6.Print message to the user to accept input from user for customer name ,customer number,slaes amountand tax code
+7.Accept input from the user for customer name ,customer number,slaes amountand tax code
+8.switch taxcode
+	case 0: taxCode=0 then
+			 assign totalAmountDue=salesAmount
+				break
+
+	case 1: taxCode=1 then
+			 assign totalAmountDue=salesAmount*0.03
+				break
+	case 2: taxCode=2 then
+			 assign totalAmountDue=salesAmount*0.05
+				break		
+end switch 
+9.print Sales Report statement 
+10.Print all customer name ,customer number,slaes amount ,tax cod and total amout due vales
+
+
+
+	
